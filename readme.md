@@ -16,12 +16,9 @@ This repository is a structured log of my daily and weekly activities, including
 
 ---
 
-## 📝 Notes & Improvements
-- ✅ [ ] Solve at least **5 DSA problems daily**  
-- ✅ [ ] Track earnings and dues for ride-sharing  
+## 📝 Notes & Improvements 
 - ✅ [ ] Revise key concepts before interviews  
 - ✅ [ ] Apply for relevant job roles  
-
 ---
 
 ## 📌 To-Do List (Upcoming Tasks)

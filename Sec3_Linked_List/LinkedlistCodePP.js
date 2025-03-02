@@ -1,11 +1,3 @@
-// CREATE NODE CLASS HERE //
-//                        //
-//                        //
-//                        //
-//                        //
-////////////////////////////
-
-
 class Node{
     constructor(value){
         this.value = value
